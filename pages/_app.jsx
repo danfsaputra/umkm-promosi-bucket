@@ -15,7 +15,7 @@ export default function MyApp({ Component, pageProps }) {
         {/* Open Graph (untuk tampilan saat dibagikan ke media sosial) */}
         <meta property="og:title" content="UMKM Kultura | Produk Kerajinan Bucket Asli Surabaya" />
         <meta property="og:description" content="Produk Estetik, personal, cocok untuk segala momen dan bebas sesuai permintaan, bernilai seni, buatan UMKM Surabaya." />
-        <meta property="og:url" content="https://kultura.umkmkremsel.shop" />
+        <meta property="og:url" content="https://azahbucket.umkmkremsel.shop" />
         <meta property="og:image" content="https://azahbucket.umkmkremsel.shop/azah.png" />
         <meta property="og:type" content="website" />
 
