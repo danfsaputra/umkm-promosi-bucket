@@ -16,10 +16,10 @@ export default function MyApp({ Component, pageProps }) {
         <meta property="og:title" content="UMKM Kultura | Produk Kerajinan Bucket Asli Surabaya" />
         <meta property="og:description" content="Produk Estetik, personal, cocok untuk segala momen dan bebas sesuai permintaan, bernilai seni, buatan UMKM Surabaya." />
         <meta property="og:url" content="https://kultura.umkmkremsel.shop" />
-        <meta property="og:image" content="https://azahbucket.umkmkremsel.shop/LOGO%20AJA.png" />
+        <meta property="og:image" content="https://azahbucket.umkmkremsel.shop/azah.png" />
         <meta property="og:type" content="website" />
 
-        <link rel="icon" href="/LOGO%20AJA.png" type="image/png" />
+        <link rel="icon" href="/azah.png" type="image/png" />
       </Head>
 
       <Component {...pageProps} />

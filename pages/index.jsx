@@ -97,7 +97,7 @@ export default function Home() {
             <div className="flex items-center gap-2 sm:gap-4">
               <div className="w-8 h-8 sm:w-12 sm:h-12 bg-gradient-to-br from-amber-50 to-orange-50 rounded-full flex items-center justify-center overflow-hidden">
                 <img
-                  src="/LOGO%20AJA.png"
+                  src="/azah.png"
                   alt="Logo UMKM AZAH BUCKET"
                   className="w-full h-full object-cover"
                 />
@@ -189,9 +189,9 @@ export default function Home() {
               className="rounded-2xl h-64 sm:h-80"
             >
               {[
-                "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600&h=400&fit=crop",
-                "/images%20(1).jpeg",
-                "/ramen.jpeg"
+                "/AZAH%20FULL.jpg",
+                "/AZAH%205.jpg",
+                "/katalogazah.jpg",
               ].map((src, i) => (
                 <SwiperSlide key={i}>
                   <div className="relative h-64 sm:h-80">
@@ -365,8 +365,8 @@ export default function Home() {
           <div className="flex items-center justify-center gap-3 sm:gap-4 mb-3 sm:mb-4">
             <div className="w-6 h-6 sm:w-8 sm:h-8 bg-gradient-to-br from-amber-50 to-orange-50 rounded-full flex items-center justify-center overflow-hidden">
               <img
-                src="/LOGO%20AJA.png"
-                alt="Logo UMKM Kultura"
+                src="/azah.png"
+                alt="Logo UMKM AZAH BUCKET"
                 className="w-full h-full object-cover"
               />
             </div>

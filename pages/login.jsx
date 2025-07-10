@@ -32,8 +32,8 @@ export default function LoginPage() {
           <div className="flex items-center gap-4">
             <div className="w-12 h-12 bg-gradient-to-br from-amber-50 to-orange-50 rounded-full flex items-center justify-center overflow-hidden">
               <img
-                src="/LOGO%20AJA.png"
-                alt="Logo UMKM Kultura"
+                src="/azah.png"
+                alt="Logo UMKM AZAH BUCKET"
                 className="w-full h-full object-cover"
               />
             </div>
